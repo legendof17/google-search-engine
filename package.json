@@ -1,5 +1,6 @@
 {
   "name": "google-search-engine",
+  "homepage": "https://legendof17.github.io/google-search-engine/",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
